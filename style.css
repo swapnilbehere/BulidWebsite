@@ -1,0 +1,35 @@
+body {
+    background-color: #121212;
+    /* Dark background */
+    color: #e0e0e0;
+    /* Light text */
+    font-family: 'Arial', sans-serif;
+    /* Minimalist font */
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #1e1e1e;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+section {
+    padding: 20px;
+}
